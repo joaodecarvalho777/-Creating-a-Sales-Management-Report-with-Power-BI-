@@ -1,2 +1,2 @@
 # -Creating-a-Sales-Management-Report-with-Power-BI-
-"Creating a Sales Management Report with Power BI"
+This project aims to create a sales management report using Power BI. The goal is to transform sales data into interactive visualizations and actionable insights, allowing managers and teams to make more informed decisions. The report will feature detailed charts, key performance metrics, and trend analyses to facilitate understanding of sales performance and identify improvement opportunities.
